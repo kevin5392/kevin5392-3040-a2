@@ -18,7 +18,7 @@
 1. Click the icon in the top right of your screen to go to your GitHub profile.
 2. Click **Your Repositories**.
 3. Click the green **New** button.
-4. Enter the name for your repository. Your repository must be named ```yaml <username>.github.io``` (e.g., if your username is anonUser you would name your repository ```yaml anonUser.github.io```)
+4. Enter the name for your repository. Your repository must be named ```<username>.github.io``` (e.g., if your username is anonUser you would name your repository ```anonUser.github.io```)
 5. Set the repository to public.
 6. Check the box to initialize with a README file.
 7. Click **Create repository**.
