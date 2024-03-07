@@ -74,6 +74,7 @@ After completing these steps you should have something that looks like this:
 
 ## Authors and Acknowledgements
 - Kevin Breckman.
+- My 3040 groupmates
 - Cayman Theme: The Jekyll theme used in the GIF can be found [here](https://github.com/pages-themes/cayman).
 
 ## FAQs
