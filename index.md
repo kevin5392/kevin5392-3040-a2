@@ -1,3 +1,6 @@
+---
+title: Kevin's Resume
+---
 # Kevin B
 
 **Email:** kevin...@gmail.com ❖ **Phone:** (111) 111-1111 ❖ **Location:** Winnipeg, MB
